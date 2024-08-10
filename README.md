@@ -1,1 +1,1 @@
-# Machine-Learning-Algorithms
+This repository contains implementations of various machine learning algorithms, covering both supervised and unsupervised learning techniques. It is designed to serve as a comprehensive resource for learning and experimenting with different algorithms, making it useful for students, researchers, and practitioners in the field of machine learning.
